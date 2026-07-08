@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Haoyu Wang 👋
 
-<!--
-**haoyuwang-ai/haoyuwang-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Software Engineer
 
-Here are some ideas to get you started:
+Building AI-powered applications with modern full-stack technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Toronto, Canada
+
+---
+
+## ⚡ Tech Stack
+
+**Languages**
+
+Python • Java • SQL
+
+**AI**
+
+LLM • OpenAI API • RAG • Prompt Engineering
+
+**Backend**
+
+FastAPI
+
+**Frontend**
+
+Next.js
+
+**Database**
+
+Vector Database • SQLite
+
+---
+
+## 🎯 Currently Exploring
+
+- Production AI Applications
+- RAG Systems
+- Full-Stack AI Development
+
+---
+
+> *Building AI products, not demos.*
