@@ -34,6 +34,20 @@ Vector Database • SQLite
 
 ## 🚀 Featured Project
 
+### BeneMaple
+
+An AI-powered assistant that helps people understand Canadian benefits, tax credits, and government programs.
+
+Users can ask natural-language questions and receive streamed answers grounded in reliable sources, with direct links for further reading.
+
+**Tech Stack**
+
+Next.js • FastAPI • AI SDK • RAG • Vector Database • OpenAI API
+
+[Live Demo](https://benemaple.vercel.app/) • [Source Code](https://github.com/haoyuwang-ai/benemaple-web)
+
+---
+
 ### D&D 5e SRD RAG
 
 An AI-powered rules assistant for Dungeons & Dragons 5e SRD content.
